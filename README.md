@@ -1,1 +1,0 @@
-# lhscsp-spring2022
